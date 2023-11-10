@@ -1,0 +1,22 @@
+name: tmba
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - plotly
+  - pandas
+  - dash
+  - dash-bootstrap-components
+  - scipy
+  - xarray
+  - pymysql
+  - tabulate
+  - jupyter
+  - jupyterlab
+  - ipyparallel
+  - gsw
+  - pytables
+  - pytest
+  - pytest-check
+  - plotly-resampler
+prefix: /Users/white/conda/envs/tmba

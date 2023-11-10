@@ -1,0 +1,5 @@
+Mini*-latest-*\.sh
+Mambaforge*.sh
+
+*.log
+.DS_Store
