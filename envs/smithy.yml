@@ -1,0 +1,9 @@
+name: smithy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda-smithy
+  - grayskull
+  - requests
+prefix: /Users/white/conda/envs/smithy

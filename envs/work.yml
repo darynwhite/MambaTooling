@@ -1,0 +1,36 @@
+name: work
+channels:
+  - conda-forge
+  - defaults
+# subdir: osx-64 ## this is not allowed to be set via a file
+dependencies:
+  - pyserial
+  - numpy
+  - pandas
+  - xarray
+  - scipy
+  - jupyter
+  - jupyterlab
+  - ipyparallel
+  - plotly
+  - matplotlib
+  - cartopy
+  - dash
+  - tabulate
+  - pymysql
+  - webob
+  - colorlog
+  - pycodestyle
+  - black
+  - poppler
+  - pypdf2
+  - xlrd
+  - openpyxl
+  - netcdf4
+  - seawater
+  - gsw
+  - cmocean
+  - nodejs
+  - conda-tree
+  - ntplib
+prefix: /Users/white/conda/envs/work
