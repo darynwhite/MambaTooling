@@ -2,7 +2,7 @@ name: work
 channels:
   - conda-forge
   - defaults
-# subdir: osx-64 ## this is not allowed to be set via a file
+
 dependencies:
   - pyserial
   - numpy
