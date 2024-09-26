@@ -1,5 +1,2 @@
 auto_update_conda: true
 auto_activate_base: false
-channels:
-  - conda-forge
-  - bioconda
