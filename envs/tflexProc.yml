@@ -1,0 +1,13 @@
+name: tflexProc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - xarray
+  - matplotlib
+  - basemap
+  - pymysql
+  - netcdf4
+  - gsw
+prefix: /Users/white/conda/envs/work

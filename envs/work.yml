@@ -24,6 +24,7 @@ dependencies:
   - black
   - poppler
   - pypdf2
+  - pypdf
   - xlrd
   - openpyxl
   - netcdf4
@@ -33,4 +34,5 @@ dependencies:
   - nodejs
   - conda-tree
   - ntplib
+  - lxml
 prefix: /Users/white/conda/envs/work
