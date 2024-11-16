@@ -4,7 +4,7 @@
 ```
 bash condaFromScratch.sh
 ```
-This script will download Mambaforge and install it, then create and populate environments based on the YAML files found in `./envs`.
+This script will download Miniforge and install it, then create and populate environments based on the YAML files found in `./envs`.
 
 This will leave the base environment untouched and keep most of the working libraries in environments. Of these, `work` is the most utilized.
 
