@@ -1,0 +1,13 @@
+name: data-sci
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - plotly
+  - pandas
+  - scikit-learn
+  - nltk
+  - ipython
+  - ipykernel
+  - nbformat
