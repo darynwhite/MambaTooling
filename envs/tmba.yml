@@ -1,7 +1,6 @@
 name: tmba
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - plotly
   - plotly-resampler

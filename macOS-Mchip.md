@@ -28,7 +28,7 @@ This will install perl and various dependencies and will build using Rosetta 2 t
     - Double check your environment paths (`.zshrc`)
     - Relaunch your shell `exec zsh -l`
 - Install the CLIs needed (the following are only suggestions):
-    - `brew install gh`
+    - `brew install gh git-lfs shellcheck`
     - `gh` is GitHub CLI, for general GitHub things
     - `git-lfs` is Git Large File Storage, useful when dealing with repos that have PDFs or other large binary data files
     - `shellcheck` is useful for linting various shell scripts

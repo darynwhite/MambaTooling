@@ -1,7 +1,6 @@
 name: wag
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - wagtail
 prefix: /Users/white/conda/envs/wag

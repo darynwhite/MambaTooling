@@ -1,7 +1,6 @@
 name: tflexProc
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - pandas
   - xarray
