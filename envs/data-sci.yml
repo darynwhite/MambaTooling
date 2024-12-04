@@ -1,7 +1,6 @@
 name: data-sci
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - black
   - plotly
@@ -12,3 +11,4 @@ dependencies:
   - ipykernel
   - nbformat
   - seaborn
+prefix: /Users/white/conda/envs/data-sci
