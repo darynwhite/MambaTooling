@@ -6,7 +6,7 @@ envs="$DIR"/envs/
 
 source "$DIR"/lib/conda_build.sh
 mamba init zsh
-mamba update -a -y
+# mamba update --all -y
 mamba update -y conda
 # shellcheck source=./lib/conda_env_setup.sh
 source "${envInstall}" "${envs}"

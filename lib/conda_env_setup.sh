@@ -11,6 +11,6 @@ source "$DIR"/setup.sh
 for e in "$1"/*.yml; do
     name=$(basename "$e" .yml)
     echo "$name"
-    mamba env create -f "$e"
+    mamba env create --file="$e"
 done
 Submarine
