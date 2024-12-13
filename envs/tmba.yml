@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - plotly
-  - plotly-resampler
+  - plotly-resampler >= 0.9
   - pandas
-  - dash
+  # - dash
   - dash-bootstrap-components
   - scipy
   - xarray
