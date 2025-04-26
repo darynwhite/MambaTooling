@@ -33,4 +33,5 @@ dependencies:
   - conda-tree
   - ntplib
   - lxml
+  - openpyxl
 prefix: /Users/white/conda/envs/work
